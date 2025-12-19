@@ -1,0 +1,6 @@
+_old/
+__pycache__/
+*.pyc
+.venv/
+*.exe
+watchlist.txt
